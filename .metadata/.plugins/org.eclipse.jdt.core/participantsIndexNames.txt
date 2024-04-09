@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\tusha\OneDrive\Desktop\Interview\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\949759075.index
+\manual\src\main\java
+C:\Users\tusha\OneDrive\Desktop\Interview\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3382614207.index
+\manual\src\main\resources

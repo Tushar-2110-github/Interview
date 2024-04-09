@@ -1,0 +1,12 @@
+
+
+public class StringFind {
+	public static void main(String[] args) {
+		int num []= {1,2,3,6,5,4};
+		for (int i=1;i<num.length;i++) {
+			if ( num[i]==5) {
+				System.out.println("p");
+			}System.out.println("a");
+		}
+	}
+}

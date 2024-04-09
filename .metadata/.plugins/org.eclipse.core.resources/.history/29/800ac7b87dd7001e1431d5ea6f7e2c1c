@@ -1,0 +1,15 @@
+
+
+public class StringFind {
+	public static void main(String[] args) {
+		int a=5000;
+		byte b=50;
+		short s=500;
+		long l=50000;
+		float f=2.5f;
+		boolean b1=false;
+		char ch='v';
+		
+		System.out.println(b1);
+	}
+}
